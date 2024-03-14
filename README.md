@@ -1,4 +1,4 @@
-# Jogo-Dragon-Repeller
+# Jogo Dragon Repeller 
 Um jogo de aventura de texto simples implementado em JavaScript. Ele consiste em várias funções e objetos que controlam o fluxo do jogo e interações do jogador.
 
 Existem várias localizações no jogo, como a cidade, a loja e a caverna.
