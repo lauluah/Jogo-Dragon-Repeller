@@ -11,5 +11,5 @@ Em resumo, este código implementa um jogo de aventura de texto simples onde o j
 
 <br><img src="https://2.bp.blogspot.com/-OnxPxRSN5qs/WFz_S-WrKdI/AAAAAAAAYMk/ADsGNOuLlRYmWP-A9VZm4xcr4D4JS6M6gCLcB/s1600/Gifs%2Banimados%2BDrag%25C3%25A3o%2BVermelho%2B7.gif" style="width: 160px; height: 160px">
 
-
+[clique aqui para ver o projeto!](https://lauluah.github.io/Jogo-Dragon-Repeller/)
 
