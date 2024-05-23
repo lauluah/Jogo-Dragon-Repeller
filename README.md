@@ -1,10 +1,8 @@
 # Jogo Dragon Repeller 
 Um jogo de aventura de texto simples implementado em JavaScript. Ele consiste em várias funções e objetos que controlam o fluxo do jogo e interações do jogador.<br><br>
-<img src="/fotoJG.png" width=600 heigth=500><br>
-Existem várias localizações no jogo, como a cidade, a loja e a caverna.<br>
-<br><br>Cada localização tem botões que o jogador pode clicar para realizar ações, como comprar itens, lutar contra monstros ou explorar.
-O jogador pode comprar itens na loja, como armas e saúde, usando o ouro que coleta ao longo do jogo.
-<br>Existem funções para lutar contra monstros, onde o jogador pode atacar, esquivar ou fugir.
+<img src="/fotoJG.png" width=900 heigth=500><br>
+Existem várias localizações no jogo, como a cidade, a loja e a caverna. Cada localização tem botões que o jogador pode clicar para realizar ações, como comprar itens, lutar contra monstros ou explorar.
+O jogador pode comprar itens na loja, como armas e saúde, usando o ouro que coleta ao longo do jogo. Existem funções para lutar contra monstros, onde o jogador pode atacar, esquivar ou fugir.
 <br><br>O jogo inclui elementos de sorte, como encontrar o "ovo", onde o jogador tem que escolher um número e ganha ou perde com base em números aleatórios gerados.
 Em resumo, este código implementa um jogo de aventura de texto simples onde o jogador pode explorar, lutar e interagir com vários elementos do jogo.
 
